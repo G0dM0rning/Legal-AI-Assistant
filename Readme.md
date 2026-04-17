@@ -149,3 +149,4 @@ ALLOWED_ORIGINS=http://localhost:3000
 ---
 
 **LegalAI**: *Bridging the gap between Law and Intelligence with every query.*
+**Project Video Link**: https://drive.google.com/file/d/1vV65p3_nFMvJZ2iXXUkOcY15VNQejp1F/view?usp=sharing
