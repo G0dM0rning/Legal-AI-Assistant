@@ -143,7 +143,7 @@ ALLOWED_ORIGINS=http://localhost:3000
 ---
 
 ## 👤 Author
-**Waqar Ahmad** — Software Engineer  
+**Muhammad Rizwan Babar** — Software Engineer  
 *Expertise in AI-Native systems, RAG Architectures, and Full-Stack Development.*
 
 ---
